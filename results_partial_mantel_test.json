@@ -1,0 +1,47 @@
+{
+  "full_network": {
+    "partial_r": -0.17635560693412664,
+    "partial_mantel_p": 0.0005,
+    "raw_r_distance_vs_coreport": -0.19183891662978236,
+    "raw_r_distance_vs_connectivity": -0.10475823847294818,
+    "raw_r_connectivity_vs_coreport": 0.18640762330459834,
+    "null_mean": 0.00047940268515721355,
+    "null_sd": 0.03187598847795353
+  },
+  "vector-borne": {
+    "partial_r": -0.07021165143312628,
+    "partial_mantel_p": 0.0005,
+    "raw_r_distance_vs_coreport": -0.07375992746085634,
+    "raw_r_distance_vs_connectivity": -0.10475823847294818,
+    "raw_r_connectivity_vs_coreport": 0.038041325122552136,
+    "null_mean": -0.00019937298520431422,
+    "null_sd": 0.014446267594615127,
+    "n_records": 265,
+    "n_countries": 108,
+    "n_pairs_with_shared_disease_year": 735
+  },
+  "respiratory": {
+    "partial_r": -0.14347445570628542,
+    "partial_mantel_p": 0.0005,
+    "raw_r_distance_vs_coreport": -0.15857075007691374,
+    "raw_r_distance_vs_connectivity": -0.10475823847294818,
+    "raw_r_connectivity_vs_coreport": 0.17192180779799973,
+    "null_mean": 0.0003601382791597819,
+    "null_sd": 0.033744854238348894,
+    "n_records": 1355,
+    "n_countries": 232,
+    "n_pairs_with_shared_disease_year": 26180
+  },
+  "waterborne/foodborne": {
+    "partial_r": -0.1108606041815651,
+    "partial_mantel_p": 0.0005,
+    "raw_r_distance_vs_coreport": -0.11891045867642196,
+    "raw_r_distance_vs_connectivity": -0.10475823847294818,
+    "raw_r_connectivity_vs_coreport": 0.086620708738101,
+    "null_mean": -0.0011679937102351196,
+    "null_sd": 0.018806225360178352,
+    "n_records": 343,
+    "n_countries": 105,
+    "n_pairs_with_shared_disease_year": 1402
+  }
+}

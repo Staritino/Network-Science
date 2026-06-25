@@ -1,0 +1,10 @@
+{
+  "n_countries": 233,
+  "n_pairs": 27028,
+  "n_pairs_with_shared_disease_year": 26203,
+  "pearson_r": -0.19183891662978236,
+  "pearson_mantel_p": 0.0001,
+  "spearman_rho": -0.14448311477951778,
+  "spearman_mantel_p": 0.0001,
+  "n_permutations": 9999
+}
